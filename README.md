@@ -1,2 +1,2 @@
 # ferramentas_survey123
-Projetos e insights de otimização de processos via ArcGIS Survey123
+Projeto de otimização de processos rotineiros do ArcGIS Survey123 via Python.
