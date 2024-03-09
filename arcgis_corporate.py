@@ -1,7 +1,7 @@
 """
 Created at: Jun, 2023
 Last edit: Jun, 2023
-author: Gustavo B. Barbosa (gbarbosa@bracell.com)
+author: Gustavo B. Barbosa (gustavo.bort.barbosa@gmail.com)
 """
 from datetime import datetime
 import pandas as pd
